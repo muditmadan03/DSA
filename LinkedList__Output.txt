@@ -1,0 +1,14 @@
+Enter Number Of Family Members:4
+Enter Family Member 1 Name:Dad
+Enter Family Member 1 Age:50
+Enter Family Member 2 Name:Mom
+Enter Family Member 2 Age:50
+Enter Family Member 3 Name:Ram
+Enter Family Member 3 Age:20
+Enter Family Member 4 Name:Shyam
+Enter Family Member 4 Age:15
+
+Doubly Linked list is shown below:
+
+[Name:Dad Age:50]<=>[Name:Mom Age:50]<=>[Name:Ram Age:20]<=>[Name:Shyam Age:15]
+Program ended with exit code: 0
